@@ -1,0 +1,8 @@
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Estudando_Prova\Estudando_Prova\bin\Debug\Estudando_Prova.exe.config
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Estudando_Prova\Estudando_Prova\bin\Debug\Estudando_Prova.exe
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Estudando_Prova\Estudando_Prova\bin\Debug\Estudando_Prova.pdb
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Estudando_Prova\Estudando_Prova\obj\Debug\Estudando_Prova.csproj.AssemblyReference.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Estudando_Prova\Estudando_Prova\obj\Debug\Estudando_Prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Estudando_Prova\Estudando_Prova\obj\Debug\Estudando_Prova.csproj.CoreCompileInputs.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Estudando_Prova\Estudando_Prova\obj\Debug\Estudando_Prova.exe
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Estudando para prova\Estudando_Prova\Estudando_Prova\obj\Debug\Estudando_Prova.pdb
